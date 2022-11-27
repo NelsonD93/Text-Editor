@@ -7,3 +7,7 @@ Here you can see an active service worker:
 
 Here you can see the application running locally:
 ![Screenshot](/Develop/assets/Native.png)
+
+[View the repo here](https://github.com/NelsonD93/Text-Editor/tree/main)
+
+[Heroku App]()
